@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 Languages and Tools:
 
-data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAV0lEQVRYR+3SsQ0AMAgEMdh/aYZwQ3HpT0LO7zx/+/y+6UD9oQQTVAHt22CCKqB9G0xQBbRvgwmqgPZtMEEV0L4NJqgC2rfBBFVA+zaYoApo3wYTVAHtDxz6ACmSkz/0AAAAAElFTkSuQmCC
+https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg
