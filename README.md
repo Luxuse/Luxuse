@@ -18,7 +18,7 @@ Languages and Tools:
 
 <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>  <img src="https://camo.githubusercontent.com/a1b2dac5667822ee0d98ae6d799da61987fd1658dfeb4d2ca6e3c99b1535ebd8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534" alt="Python" data-canonical-src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" style="max-width: 100%;"> ![hands-on_python](https://github.com/Luxuse/Luxuse/assets/137567329/f5666ead-4a8b-45d7-aa6d-6a84033ea303)![logo_blender](https://github.com/Luxuse/Luxuse/assets/137567329/d44a516f-4d46-4ac7-8a84-211b8fea3692)
 <img src="https://files.cults3d.com/uploaders/13889723/illustration-file/88f914f9-4ec0-4d0c-8ebb-5edc51f4b3cd/kali_linux.jpg" alt="vscode" width="45" height="45"/>
-<img src="https://images.app.goo.gl/SYLpiQbXNgnfKQ4T7" alt="css" width="45" height="45"/>
+<img src="https://images.app.goo.gl/SYLpiQbXNgnfKQ4T7.png" alt="css" width="45" height="45"/>
 
 
 
