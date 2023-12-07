@@ -5,7 +5,8 @@
 
 - 👋 Hi, I’m @Luxuse
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning in school
+and in web développement 
+- 🌱 I’m currently learning in school and by me
 - 📫 How to reach me never :)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luxuse&label=Profile%20views&color=0e75b6&style=flat" alt="luxuse" /> </p>
 
