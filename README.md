@@ -1,13 +1,11 @@
 
 
-![wp9200875](https://github.com/Luxuse/Luxuse/assets/137567329/d8693982-7d46-4840-a997-a5479c0d0936)
+
 
 
 - 👋 Hi, I’m @Luxuse
-- 👀 I’m interested in cyber security
-and in web développement 
+- 👀 I’m interested IT
 - 🌱 I’m currently learning in school and by me
-- 📫 How to reach me never :)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luxuse&label=Profile%20views&color=0e75b6&style=flat" alt="luxuse" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p
