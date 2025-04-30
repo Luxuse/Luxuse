@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![result (2)](https://github.com/Luxuse/Luxuse/assets/137567329/15f7c87b-fd11-4068-b407-ce8cd35d81fb)
+
 
 
 
