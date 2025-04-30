@@ -6,7 +6,8 @@
 - 👋 Hi, I’m @Luxuse
 - 👀 I’m interested IT
 - 🌱 I’m currently learning in school and by me
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luxuse&label=Profile%20views&color=0e75b6&style=flat" alt="luxuse" /> </p>
+![header_image](https://github.com/user-attachments/assets/7b22137f-3ad6-4b9e-a7f1-61b24192e29a)
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p
 <!---
